@@ -32,19 +32,4 @@ Equipment included:    (input&output function for each page)
 - RYIELD
 
 
-
-Future implementations:
-- Cost analysis for everything (aka combining [this](https://github.com/weepctxb/ChemEngDPpy) sizing and costing library with my library)
-
-
-
-Concerning licences and the freedom to use it: You are welcome to use it for any project you have. If you start making significant money with it please email me. For academic research you are ofcourse welcome to use it but please cite me.
-If you have a problem with something or any questions send me a email: Richardxtenxhagen@gmail.com
-
-
-
-Other peoples work which is in a similar area as this one:
-https://github.com/edgarsmdn/Aspen_HYSYS_Python
-https://github.com/Shen-SJ/pyAspenPlus/tree/main/pyAspenPlus
-https://towardsdatascience.com/automated-aspen-hysys-modelling-4c5187563167
-
+ 
