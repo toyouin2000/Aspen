@@ -8,11 +8,7 @@ import numpy as np
 import time
 #from scripy import optimize
 
-
-"""Created on the 24.05.2022
-@author: Richard ten Hagen
-@author contact: Richardxtenxhagen@gmail.com
-
+ 
 
 
 API for controlling the Aspen Python Interface automatically
