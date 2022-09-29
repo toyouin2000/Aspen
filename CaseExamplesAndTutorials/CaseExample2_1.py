@@ -5,11 +5,7 @@ from CodeLibrary import Simulation
 from scipy import optimize
 #import time
 import matplotlib.pyplot as plt
-#import numpy
-
-"""Created on the 24.05.2022
-@author: Richard ten Hagen
-@author contact: Richardxtenxhagen@gmail.com
+#import numpy 
 
 Case Example Nr 2: This code will make use of the evolutionary method optimization algorithm to find the optimal profit for the given flowsheet by varying the following parameters:
 - Stagenumber of Column 1
