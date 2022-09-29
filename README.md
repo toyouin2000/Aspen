@@ -13,7 +13,6 @@ Capabilities:
 
 
 Applications:
-- [Bachelorthesis](https://github.com/YouMayCallMeJesus/ReinforcementlearningWithDestillationColumns): Reinforcement learning approach to solve Destillation column sequencing (terrible code!! not worth reading or using) for the improved version go to: [CHRIS](https://github.com/ADChristos/Aspen-RL) or [MIGLEY](https://github.com/lollcat/Aspen-RL)
 - Case 1: Varying stagenumber in Destillation column to optimize energy usage
 - Case 2: applying genetic algorithm to optimize TAC for destillation column sequence
 - Almost all automated optimizations for the design of Aspen Plus programs can be done here since most variables are included in this library.
