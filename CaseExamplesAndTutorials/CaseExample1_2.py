@@ -2,12 +2,7 @@
 from CodeLibrary import Simulation
 import matplotlib.pyplot as plt
 
-
-"""Created on the 24.05.2022
-@author: Richard ten Hagen
-@author contact: Richardxtenxhagen@gmail.com
-
-
+ 
 
 Case Example Nr 1: In this code we will loop through a list of Stagenumbers in two different columns and record what influence that has on the duty, temp and split fraction
 The feedstage will be set to be the middle stage. This shows the power of doing extensive searches in aspen since the same procedure can be used to loop through even more variables to find a wanted optimum.
