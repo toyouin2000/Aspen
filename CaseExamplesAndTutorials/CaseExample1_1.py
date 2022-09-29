@@ -2,10 +2,7 @@
 from CodeLibrary import Simulation
 import matplotlib.pyplot as plt
 
-
-"""Created on the 24.05.2022
-@author: Richard ten Hagen
-@author contact: Richardxtenxhagen@gmail.com
+ 
 
 
 
