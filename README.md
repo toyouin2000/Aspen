@@ -20,15 +20,10 @@ Applications:
 
 
 Equipment included:    (input&output function for each page)
-- Streams
-- DSTWU
-- Flash2
-- Radfrac
 - Heater
 - Mixer
 - RPLUG
 - RCSTR
-- RYIELD
 
 
  
